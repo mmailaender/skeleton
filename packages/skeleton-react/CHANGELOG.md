@@ -1,5 +1,15 @@
 # @skeletonlabs/skeleton-react
 
+## 1.0.0-next.11
+
+### Patch Changes
+
+- feature: Show first and last button to be an optional props. ([#3007](https://github.com/skeletonlabs/skeleton/pull/3007))
+
+- Nav component for React will now be renamed to Navigation along with all its child components ([#3004](https://github.com/skeletonlabs/skeleton/pull/3004))
+
+- Introduce `showLabel` as a new prop for **ProgressRing** component ([#2996](https://github.com/skeletonlabs/skeleton/pull/2996))
+
 ## 1.0.0-next.10
 
 ### Patch Changes

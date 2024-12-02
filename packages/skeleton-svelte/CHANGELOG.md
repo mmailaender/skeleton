@@ -1,5 +1,15 @@
 # @skeletonlabs/skeleton-svelte
 
+## 1.0.0-next.15
+
+### Patch Changes
+
+- feature: Show first and last button to be an optional props. ([#3007](https://github.com/skeletonlabs/skeleton/pull/3007))
+
+- Set button type to **button** for Svelte's combobox options ([#2998](https://github.com/skeletonlabs/skeleton/pull/2998))
+
+- Introduce `showLabel` as a new prop for **ProgressRing** component ([#2996](https://github.com/skeletonlabs/skeleton/pull/2996))
+
 ## 1.0.0-next.14
 
 ### Patch Changes
